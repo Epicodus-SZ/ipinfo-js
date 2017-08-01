@@ -1,0 +1,17 @@
+{
+  "name": "ipinfo",
+  "description": "IP locator web app",
+  "main": "index.js",
+  "authors": [
+    "Steve Zaske"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ipinfo",
+  "version": "1.0.0",
+  "description": "IP locator web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Epicodus-SZ/ipinfo-js.git"
+  },
+  "author": "Steve Zaske",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Epicodus-SZ/ipinfo-js/issues"
+  },
+  "homepage": "https://github.com/Epicodus-SZ/ipinfo-js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
